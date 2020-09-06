@@ -35,21 +35,6 @@ Our curriculum is centered around two types of categories:
 |4         | Final project | -   |
 
 
-#### Week 1️⃣:
-First, see course_information.md, as it discusses what the course is intended to do, the tools being covered, and the
-
-
-#### Week 2️⃣:
-
-
-#### Week 3️⃣:
-
-
-#### Week 4️⃣
-
-
-
-
 
 ## 🌐 About BitProject
 

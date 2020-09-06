@@ -19,6 +19,20 @@ Our curriculum is centered around two types of categories:
 |4         | Final project | -   |
 
 
+#### Week 1️⃣:
+First, see course_information.md, as it discusses what the course is intended to do, the tools being covered, and the
+
+
+#### Week 2️⃣:
+
+
+#### Week 3️⃣:
+
+
+#### Week 4️⃣:
+
+
+
 
 ## 📝 Teaching this course
 We aim to provide students with **tools, skills, and experience** to work with data science. Those three components break down as such for you, the teachers of the course:
