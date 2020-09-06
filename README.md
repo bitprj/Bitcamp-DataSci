@@ -26,7 +26,7 @@ We will teach the materials in Google colab. Students will be provided a link to
 ## Course Format
 Our curriculum is centered around two types of categories:
 
-**Tutorials** are guided, step-by-step tutorials to teach concepts and technical skills. These will be video recordings with open Q&A, and they will cover the technical skills needed for the labs. These will be provided with an accompanying
+**Tutorials** are guided, step-by-step tutorials to teach concepts and technical skills. These will be video recordings with open Q&A, and they will cover the technical skills needed for the labs. These will be provided with an accompanying python notebook that should have the "Now Try This" sections completed.
 
 **Labs** are self-directed assignments given between each set of tutorials to cement and test your knowledge, as well as give you some more flexibility in what you're doing with the data. For example, we will provide a dataset and perform some operations during the tutorial, but you may have another question about the data that you can answer yourself with what you've learned that week.
 
