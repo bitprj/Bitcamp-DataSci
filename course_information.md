@@ -1,5 +1,5 @@
 <p align="center" width="50">
-   <img src="https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/icons/bitproject.png?raw=true">
+   <img src="https://github.com/bitprj/Bitcamp-DataSci/blob/master/assets/bitproject.png?raw=true">
 </p>
 
 # <div align="center"> Introduction to Data Science</div>       
@@ -14,7 +14,7 @@ The first class of the week consists of discussion and research about related to
 The second class of the week is meant to help prepare for these discussions. This portion of the course marks the connection between Bit Project and Howard University's student leaders, bonding over teaching modern analytical thinking and programming tools.
 
 ## 🛠 Our Toolkit
-<img src="https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/python.png?raw=true" align="center" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/pandas.png?raw=true" align="center" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/NumPy.png?raw=true" align="center" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/matplotlib.jpg?raw=true" align="center" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/bitprj/Bitcamp-DataSci/blob/master/assets/python.png?raw=true" align="center" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/bitprj/Bitcamp-DataSci/blob/master/assets/pandas.png?raw=true" align="center" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/bitprj/Bitcamp-DataSci/blob/master/assets/NumPy.png?raw=true" align="center" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/bitprj/Bitcamp-DataSci/blob/master/assets/matplotlib.jpg?raw=true" align="center" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 - Python and Numpy
 - Pandas for DataFrame Processing
@@ -65,7 +65,7 @@ Data analytics techniques can reveal trends and metrics that would otherwise be 
 Without data analysis, we wouldn't be able to advance as fast to the point where were are today. The reason a field such as data analysis is so important is that, in many cases, we should conclude based on our own intuition. This is particularly because of our innate ability to simplify complex patterns to be able to comprehend them.
 
 **One known example is of John Snow (Not the Game of Thrones character)**
-![John Snow](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/john-snow-map.jpg?raw=true)
+![John Snow](https://github.com/bitprj/Bitcamp-DataSci/blob/master/assets/john-snow-map.jpg?raw=true)
 
 John Snow was a British doctor who used data collection and data analysis to trace the source of a cholera outbreak in central London, and to come to the conclusion that cholera was transmitted by “an agent in the water” than by the accepted theory that it was transmitted by “bad air”.  
 
@@ -103,32 +103,32 @@ Each week, students will be given a link to access the assigned learning materia
 ## Accessing Google Colab from GitHub
 The entire set of the curriculum here is currently hosted on Bit Project’s GitHub page. Each week features a different tutorial as labeled with the “.ipynb” file extension. To access the Google Colab Tutorials, students can click on the blue “Open in Colab” button at the top of the tutorial’s content section.
 
-![Open in Colab](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/OpenInColab.JPG?raw=true)
+![Open in Colab](https://github.com/bitprj/Bitcamp-DataSci/blob/master/assets/OpenInColab.JPG?raw=true)
 
 This will redirect to the Google Colab Jupyter Notebook environment that allows students to interact with the material and the provided exercises.
 
-![New Web Page](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/NewWebPage.JPG?raw=true)
+![New Web Page](https://github.com/bitprj/Bitcamp-DataSci/blob/master/assets/NewWebPage.JPG?raw=true)
 
 
 ## Running Code Blocks
 Within this environment, students can read through the learning content, and interact with the material by running the code provided.
 (To execute lines of code, students can either press the PLAY button on the left-hand side of the code block, or press SHIFT + ENTER.)
 
-![Play Button Code Block](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/PlayButtonCodeBlock.JPG?raw=true)
+![Play Button Code Block](https://github.com/bitprj/Bitcamp-DataSci/blob/master/assets/PlayButtonCodeBlock.JPG?raw=true)
 
 
 The output for the executed code will appear underneath the code block.
 
-![Output](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/Output.JPG?raw=true)
+![Output](https://github.com/bitprj/Bitcamp-DataSci/blob/master/assets/Output.JPG?raw=true)
 
 
 ## Practicing New Skills
 The tutorials also feature “Now Try This” sections that allow students the opportunity to practice applying their newly learned skills. The solutions can also be provided for these exercises.
 
-![Try This](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/TryThis.JPG?raw=true)
+![Try This](https://github.com/bitprj/Bitcamp-DataSci/blob/master/assets/TryThis.JPG?raw=true)
 
 
 ## Saving and downloading the notebooks
 To save and download your notebook, follow the steps in the image below
 
-![Save and Download](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/save-download-notebook.png?raw=true)
+![Save and Download](https://github.com/bitprj/Bitcamp-DataSci/blob/master/assets/save-download-notebook.png?raw=true)
